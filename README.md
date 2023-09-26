@@ -32,7 +32,7 @@ Program to print the text “Hello World”.
 Developed by:
 Registeration Number :
 */
-Developed by :Chandrun I
+Developed by :Chandru I
 Registration Number : 21222122007
 ```
 ```
